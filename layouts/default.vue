@@ -11,8 +11,8 @@ import Vue from 'vue'
 export default Vue.extend({
 	head() {
 		return {
-			title: 'BeetMacol\'s website'
+			title: "BeetMacol's website",
 		}
-	}
+	},
 })
 </script>
