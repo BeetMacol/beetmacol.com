@@ -1,0 +1,33 @@
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-Thin', 100, thin, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-Light', 300, light, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-Regular', 400, normal, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-Medium', 500, medium, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-Bold', 700, bold, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-Black', 900, black, otf);
+
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-ThinItalic', 100, thin, italic, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-LightItalic', 300, light, italic, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-Italic', 400, normal, italic, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-MediumItalic', 500, medium, italic, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-BoldItalic', 700, bold, italic, otf);
+@include font-face(Roboto, '~/assets/fonts/Roboto/Roboto-BlackItalic', 900, black, italic, otf);
+
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-Thin', 100, thin, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-Light', 300, light, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-Regular', 400, normal, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-Medium', 500, medium, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-SemiBold', 600, semibold, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-Bold', 700, bold, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-Black', 900, black, otf);
+
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-ThinItalic', 100, thin, italic, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-LightItalic', 300, light, italic, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-Italic', 400, normal, italic, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-MediumItalic', 500, medium, italic, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-SemiBoldItalic', 600, semibold, italic, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-BoldItalic', 700, bold, italic, otf);
+@include font-face(RobotoMono, '~/assets/fonts/RobotoMono/RobotoMono-BlackItalic', 900, black, italic, otf);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
