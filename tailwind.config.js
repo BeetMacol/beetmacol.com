@@ -24,8 +24,8 @@ module.exports = {
 			select: '#e6ffff',
 		},
 		fontFamily: {
-			main: ["Roboto"],
-			mono: ["RobotoMono"],
+			main: ['Roboto'],
+			mono: ['RobotoMono'],
 		},
 		extend: {},
 	},
