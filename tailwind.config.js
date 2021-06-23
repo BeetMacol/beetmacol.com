@@ -18,14 +18,14 @@ module.exports = {
 			white: '#ffffff',
 		},
 		textColor: {
-			primary: '#dbdbdb',
+			primary: '#d9d9db',
 			secondary: '#a0a0a0',
 			highlight: '#9be4b4',
 			select: '#e6ffff',
 		},
 		fontFamily: {
 			main: ['Roboto'],
-			mono: ['RobotoMono'],
+			mono: ['Roboto Mono'],
 		},
 		extend: {},
 	},
